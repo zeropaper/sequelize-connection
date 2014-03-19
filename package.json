@@ -1,0 +1,32 @@
+{
+  "name": "sequelize-connection",
+  "version": "0.0.1",
+  "description": "Utility to manage sequelize connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -b test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeropaper/sequelize-connection.git"
+  },
+  "keywords": [
+    "sequelize",
+    "database",
+    "db-setup"
+  ],
+  "author": "Valentin Vago <zeropaper@irata.ch>",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/zeropaper/sequelize-connection/issues"
+  },
+  "homepage": "https://github.com/zeropaper/sequelize-connection",
+  "devDependencies": {
+    "mocha": "^1.17.1",
+    "sequelize": "^1.7.0",
+    "expect.js": "^0.3.1"
+  },
+  "dependencies": {
+    "underscore": "^1.6.0"
+  }
+}
