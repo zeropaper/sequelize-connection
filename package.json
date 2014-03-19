@@ -16,7 +16,7 @@
     "db-setup"
   ],
   "author": "Valentin Vago <zeropaper@irata.ch>",
-  "license": "Apache",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zeropaper/sequelize-connection/issues"
   },
